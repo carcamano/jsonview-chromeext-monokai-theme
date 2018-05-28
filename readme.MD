@@ -2,7 +2,7 @@
 
 Theme colors for JSON View Chrome Extension.
 
-##Preview:
+## Preview:
 
 
 Licence: MIT
